@@ -1,0 +1,2 @@
+# AIStatesMachineAssignment
+Assignment for college
